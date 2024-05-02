@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C339DE-A675-4D86-9E63-3586FB3273A7}|TestProject1\\TestProject1.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C339DE-A675-4D86-9E63-3586FB3273A7}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\labor05\\istack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|solutionrelative:labor05\\istack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\labor05\\stackexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|solutionrelative:labor05\\stackexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\labor05\\stackfullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|solutionrelative:labor05\\stackfullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\labor05\\ingredientstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|solutionrelative:labor05\\ingredientstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\labor05\\ingredientstackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|solutionrelative:labor05\\ingredientstackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\labor05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|solutionrelative:labor05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\labor05\\stackemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|solutionrelative:labor05\\stackemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor05\\labor05\\foodingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC055929-E051-4C96-9DE1-39E55924ABDB}|Labor05\\Labor05.csproj|solutionrelative:labor05\\foodingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStack.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\IStack.cs",
+              "RelativeDocumentMoniker": "Labor05\\IStack.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\IStack.cs",
+              "RelativeToolTip": "Labor05\\IStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:03:39.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngredientStackHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\IngredientStackHandler.cs",
+              "RelativeDocumentMoniker": "Labor05\\IngredientStackHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\IngredientStackHandler.cs",
+              "RelativeToolTip": "Labor05\\IngredientStackHandler.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwCkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:43:43.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\StackException.cs",
+              "RelativeDocumentMoniker": "Labor05\\StackException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\StackException.cs",
+              "RelativeToolTip": "Labor05\\StackException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:21:44.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackFullException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\StackFullException.cs",
+              "RelativeDocumentMoniker": "Labor05\\StackFullException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\StackFullException.cs",
+              "RelativeToolTip": "Labor05\\StackFullException.cs",
+              "ViewState": "AQIAAAIAAAAAVF5DebPYvxEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:26:47.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IngredientStack.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\IngredientStack.cs",
+              "RelativeDocumentMoniker": "Labor05\\IngredientStack.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\IngredientStack.cs",
+              "RelativeToolTip": "Labor05\\IngredientStack.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:22:56.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\Program.cs",
+              "RelativeDocumentMoniker": "Labor05\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\Program.cs",
+              "RelativeToolTip": "Labor05\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwDYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:52:32.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAABcAAACg11BeV0wywCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:10:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StackEmptyException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\StackEmptyException.cs",
+              "RelativeDocumentMoniker": "Labor05\\StackEmptyException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\StackEmptyException.cs",
+              "RelativeToolTip": "Labor05\\StackEmptyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:25:52.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\FoodIngredient.cs",
+              "RelativeDocumentMoniker": "Labor05\\FoodIngredient.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor05\\Labor05\\FoodIngredient.cs",
+              "RelativeToolTip": "Labor05\\FoodIngredient.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:03:19.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

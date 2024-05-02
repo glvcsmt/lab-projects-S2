@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\bin\Debug\net6.0\Labor1.exe
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\bin\Debug\net6.0\Labor1.deps.json
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\bin\Debug\net6.0\Labor1.runtimeconfig.json
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\bin\Debug\net6.0\Labor1.dll
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\bin\Debug\net6.0\Labor1.pdb
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\Labor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\Labor1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\Labor1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\Labor1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\Labor1.dll
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\refint\Labor1.dll
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\Labor1.pdb
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\Labor1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Semester 2\Labor1\Labor1\obj\Debug\net6.0\ref\Labor1.dll

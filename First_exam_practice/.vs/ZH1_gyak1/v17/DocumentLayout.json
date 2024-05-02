@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\bordercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\bordercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\proofofvisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\proofofvisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ED3133-478D-431D-AEF5-63001ECE6377}|TestProject1\\TestProject1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ED3133-478D-431D-AEF5-63001ECE6377}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\expiredpassportexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\expiredpassportexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\documentproblemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\documentproblemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\invaliddocumentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\invaliddocumentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\nameerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\nameerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\passportnumbererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\passportnumbererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\entrypermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\entrypermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\missingpassportexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\missingpassportexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\dossierfullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\dossierfullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\workpermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\workpermit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\entrydatepassed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\entrydatepassed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|c:\\users\\user\\source\\repos\\semester 2\\zh1_gyak1\\zh1_gyak1\\invalidbirthdateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80292F5-E55A-41E6-89AC-EBFA81856213}|ZH1_gyak1\\ZH1_gyak1.csproj|solutionrelative:zh1_gyak1\\invalidbirthdateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxAAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:12:55.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passport.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\Passport.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\Passport.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\Passport.cs",
+              "RelativeToolTip": "ZH1_gyak1\\Passport.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCgAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:36:22.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpiredPassportException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\ExpiredPassportException.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\ExpiredPassportException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\ExpiredPassportException.cs",
+              "RelativeToolTip": "ZH1_gyak1\\ExpiredPassportException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:30:12.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProofOfVisa.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\ProofOfVisa.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\ProofOfVisa.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\ProofOfVisa.cs",
+              "RelativeToolTip": "ZH1_gyak1\\ProofOfVisa.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:01:49.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorderControl.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\BorderControl.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\BorderControl.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\BorderControl.cs",
+              "RelativeToolTip": "ZH1_gyak1\\BorderControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:07:40.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\IDocument.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\IDocument.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\IDocument.cs",
+              "RelativeToolTip": "ZH1_gyak1\\IDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:34:01.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvalidDocumentException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\InvalidDocumentException.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\InvalidDocumentException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\InvalidDocumentException.cs",
+              "RelativeToolTip": "ZH1_gyak1\\InvalidDocumentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T23:34:49.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentProblemException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\DocumentProblemException.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\DocumentProblemException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\DocumentProblemException.cs",
+              "RelativeToolTip": "ZH1_gyak1\\DocumentProblemException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:22:38.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NameErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\NameErrorException.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\NameErrorException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\NameErrorException.cs",
+              "RelativeToolTip": "ZH1_gyak1\\NameErrorException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T23:30:39.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PassportNumberErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\PassportNumberErrorException.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\PassportNumberErrorException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\PassportNumberErrorException.cs",
+              "RelativeToolTip": "ZH1_gyak1\\PassportNumberErrorException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T23:32:20.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntryPermit.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\EntryPermit.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\EntryPermit.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\EntryPermit.cs",
+              "RelativeToolTip": "ZH1_gyak1\\EntryPermit.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:04:24.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MissingPassportException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\MissingPassportException.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\MissingPassportException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\MissingPassportException.cs",
+              "RelativeToolTip": "ZH1_gyak1\\MissingPassportException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:27:58.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DossierFullException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\DossierFullException.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\DossierFullException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\DossierFullException.cs",
+              "RelativeToolTip": "ZH1_gyak1\\DossierFullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:14:14.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkPermit.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\WorkPermit.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\WorkPermit.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\WorkPermit.cs",
+              "RelativeToolTip": "ZH1_gyak1\\WorkPermit.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:35:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntryDatePassed.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\EntryDatePassed.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\EntryDatePassed.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\EntryDatePassed.cs",
+              "RelativeToolTip": "ZH1_gyak1\\EntryDatePassed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:32:28.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvalidBirthdateException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\InvalidBirthdateException.cs",
+              "RelativeDocumentMoniker": "ZH1_gyak1\\InvalidBirthdateException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\ZH1_gyak1\\ZH1_gyak1\\InvalidBirthdateException.cs",
+              "RelativeToolTip": "ZH1_gyak1\\InvalidBirthdateException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:49:06.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

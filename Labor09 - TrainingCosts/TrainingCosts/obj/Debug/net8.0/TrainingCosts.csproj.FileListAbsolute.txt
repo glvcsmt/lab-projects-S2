@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\bin\Debug\net8.0\TrainingCosts.exe
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\bin\Debug\net8.0\TrainingCosts.deps.json
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\bin\Debug\net8.0\TrainingCosts.runtimeconfig.json
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\bin\Debug\net8.0\TrainingCosts.dll
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\bin\Debug\net8.0\TrainingCosts.pdb
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\TrainingCosts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\TrainingCosts.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\TrainingCosts.AssemblyInfo.cs
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\TrainingCosts.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\TrainingCosts.dll
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\refint\TrainingCosts.dll
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\TrainingCosts.pdb
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\TrainingCosts.genruntimeconfig.cache
+C:\Users\USER\source\repos\Semester 2\TrainingCosts\TrainingCosts\obj\Debug\net8.0\ref\TrainingCosts.dll

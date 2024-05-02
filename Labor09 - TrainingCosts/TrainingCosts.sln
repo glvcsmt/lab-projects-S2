@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingCosts", "TrainingCosts\TrainingCosts.csproj", "{6249DEF9-4119-4F6C-B8B9-60761EEDCB5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingCostsTests", "TrainingCostsTests\TrainingCostsTests.csproj", "{BE1C760C-BC49-4E34-9201-A113B6F16EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6249DEF9-4119-4F6C-B8B9-60761EEDCB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6249DEF9-4119-4F6C-B8B9-60761EEDCB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6249DEF9-4119-4F6C-B8B9-60761EEDCB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6249DEF9-4119-4F6C-B8B9-60761EEDCB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1C760C-BC49-4E34-9201-A113B6F16EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1C760C-BC49-4E34-9201-A113B6F16EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1C760C-BC49-4E34-9201-A113B6F16EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1C760C-BC49-4E34-9201-A113B6F16EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39C7D6B-6324-4C63-BC72-52C79D8ED3DF}
+	EndGlobalSection
+EndGlobal

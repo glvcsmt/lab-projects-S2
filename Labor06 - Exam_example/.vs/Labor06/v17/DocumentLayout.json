@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AA0199-7807-4956-86F7-1B99FD3CC6AD}|TestProject1\\TestProject1.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AA0199-7807-4956-86F7-1B99FD3CC6AD}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\fragileparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\fragileparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\deliveryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\deliveryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\envelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\envelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\normalparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\normalparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\incorrectorientationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\incorrectorientationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\overweightexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\overweightexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\ideliverable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\ideliverable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|c:\\users\\user\\source\\repos\\semester 2\\labor06\\labor06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911C966-790E-47AF-87E6-93A5BCC89852}|Labor06\\Labor06.csproj|solutionrelative:labor06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:41:11.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\Courier.cs",
+              "RelativeDocumentMoniker": "Labor06\\Courier.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\Courier.cs",
+              "RelativeToolTip": "Labor06\\Courier.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwC8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:56:08.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\DeliveryException.cs",
+              "RelativeDocumentMoniker": "Labor06\\DeliveryException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\DeliveryException.cs",
+              "RelativeToolTip": "Labor06\\DeliveryException.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:47:57.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FragileParcel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\FragileParcel.cs",
+              "RelativeDocumentMoniker": "Labor06\\FragileParcel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\FragileParcel.cs",
+              "RelativeToolTip": "Labor06\\FragileParcel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:41:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NormalParcel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\NormalParcel.cs",
+              "RelativeDocumentMoniker": "Labor06\\NormalParcel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\NormalParcel.cs",
+              "RelativeToolTip": "Labor06\\NormalParcel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:31:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parcel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\Parcel.cs",
+              "RelativeDocumentMoniker": "Labor06\\Parcel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\Parcel.cs",
+              "RelativeToolTip": "Labor06\\Parcel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:15:21.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Envelope.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\Envelope.cs",
+              "RelativeDocumentMoniker": "Labor06\\Envelope.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\Envelope.cs",
+              "RelativeToolTip": "Labor06\\Envelope.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:54:29.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IncorrectOrientationException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\IncorrectOrientationException.cs",
+              "RelativeDocumentMoniker": "Labor06\\IncorrectOrientationException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\IncorrectOrientationException.cs",
+              "RelativeToolTip": "Labor06\\IncorrectOrientationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:51:09.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OverweightException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\OverweightException.cs",
+              "RelativeDocumentMoniker": "Labor06\\OverweightException.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\OverweightException.cs",
+              "RelativeToolTip": "Labor06\\OverweightException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:03:21.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDeliverable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\IDeliverable.cs",
+              "RelativeDocumentMoniker": "Labor06\\IDeliverable.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\IDeliverable.cs",
+              "RelativeToolTip": "Labor06\\IDeliverable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:43:52.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\Program.cs",
+              "RelativeDocumentMoniker": "Labor06\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Labor06\\Labor06\\Program.cs",
+              "RelativeToolTip": "Labor06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:42:48.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

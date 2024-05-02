@@ -1,0 +1,29 @@
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.csproj.AssemblyReference.cache
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.AssemblyInfoInputs.cache
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.AssemblyInfo.cs
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.exe
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.deps.json
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.runtimeconfig.json
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.dll
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.pdb
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.dll
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\refint\ZH1_GMG.dll
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.pdb
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.genruntimeconfig.cache
+C:\Users\hallgato\source\repos\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ref\ZH1_GMG.dll
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.exe
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.deps.json
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.runtimeconfig.json
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.dll
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\bin\Debug\net6.0\ZH1_GMG.pdb
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.AssemblyInfo.cs
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.dll
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\refint\ZH1_GMG.dll
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.pdb
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ZH1_GMG.genruntimeconfig.cache
+C:\Users\USER\source\repos\Semester 2\ZH1_GMG\ZH1_GMG\obj\Debug\net6.0\ref\ZH1_GMG.dll

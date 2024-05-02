@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\bin\Debug\net8.0\ZH1_gyak1.exe
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\bin\Debug\net8.0\ZH1_gyak1.deps.json
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\bin\Debug\net8.0\ZH1_gyak1.runtimeconfig.json
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\bin\Debug\net8.0\ZH1_gyak1.dll
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\bin\Debug\net8.0\ZH1_gyak1.pdb
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\ZH1_gyak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\ZH1_gyak1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\ZH1_gyak1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\ZH1_gyak1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\ZH1_gyak1.dll
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\refint\ZH1_gyak1.dll
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\ZH1_gyak1.pdb
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\ZH1_gyak1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Semester 2\ZH1_gyak1\ZH1_gyak1\obj\Debug\net8.0\ref\ZH1_gyak1.dll
