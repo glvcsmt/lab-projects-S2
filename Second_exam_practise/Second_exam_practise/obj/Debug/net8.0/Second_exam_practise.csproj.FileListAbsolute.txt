@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\bin\Debug\net8.0\Second_exam_practise.exe
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\bin\Debug\net8.0\Second_exam_practise.deps.json
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\bin\Debug\net8.0\Second_exam_practise.runtimeconfig.json
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\bin\Debug\net8.0\Second_exam_practise.dll
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\bin\Debug\net8.0\Second_exam_practise.pdb
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\Second_exam_practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\Second_exam_practise.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\Second_exam_practise.AssemblyInfo.cs
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\Second_exam_practise.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\Second_exam_practise.sourcelink.json
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\Second_exam_practise.dll
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\refint\Second_exam_practise.dll
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\Second_exam_practise.pdb
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\Second_exam_practise.genruntimeconfig.cache
+C:\Users\USER\source\repos\Semester 2\Second_exam_practise\Second_exam_practise\obj\Debug\net8.0\ref\Second_exam_practise.dll
