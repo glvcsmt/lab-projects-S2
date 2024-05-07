@@ -3,23 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF70D7E0-0ACC-4696-B051-8CFC715B4DAB}|TestProject1\\TestProject1.csproj|c:\\users\\user\\source\\repos\\semester 2\\second_exam_practise\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF70D7E0-0ACC-4696-B051-8CFC715B4DAB}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|c:\\users\\user\\source\\repos\\semester 2\\second_exam_practise\\second_exam_practise\\runnerwithtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|solutionrelative:second_exam_practise\\runnerwithtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|c:\\users\\user\\source\\repos\\semester 2\\second_exam_practise\\second_exam_practise\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|solutionrelative:second_exam_practise\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\Rar$DIa48980.48469\\TimeTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|c:\\users\\user\\source\\repos\\semester 2\\second_exam_practise\\second_exam_practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|solutionrelative:second_exam_practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF70D7E0-0ACC-4696-B051-8CFC715B4DAB}|TestProject1\\TestProject1.csproj|c:\\users\\user\\source\\repos\\semester 2\\second_exam_practise\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF70D7E0-0ACC-4696-B051-8CFC715B4DAB}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|c:\\users\\user\\source\\repos\\semester 2\\second_exam_practise\\second_exam_practise\\timeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|solutionrelative:second_exam_practise\\timeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|c:\\users\\user\\source\\repos\\semester 2\\second_exam_practise\\second_exam_practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316FB5A9-6E3A-42B7-9D5A-4A26FF92E855}|Second_exam_practise\\Second_exam_practise.csproj|solutionrelative:second_exam_practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,19 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 325,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TimeTests.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\Rar$DIa48980.48469\\TimeTests.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa48980.48469\\TimeTests.cs",
-              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\Rar$DIa48980.48469\\TimeTests.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa48980.48469\\TimeTests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "RunnerWithTime.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\Second_exam_practise\\RunnerWithTime.cs",
+              "RelativeDocumentMoniker": "Second_exam_practise\\RunnerWithTime.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\Second_exam_practise\\RunnerWithTime.cs",
+              "RelativeToolTip": "Second_exam_practise\\RunnerWithTime.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:31:15.328Z",
+              "WhenOpened": "2024-05-07T19:55:02.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:16:27.222Z",
               "EditorCaption": ""
             },
             {
@@ -52,27 +66,14 @@
               "RelativeDocumentMoniker": "Second_exam_practise\\Time.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\Second_exam_practise\\Time.cs",
               "RelativeToolTip": "Second_exam_practise\\Time.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAA0wDkAAAAJAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswDgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T15:20:47.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\TestProject1\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\TestProject1\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAswCMAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T17:16:27.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TimeException.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\Second_exam_practise\\TimeException.cs",
               "RelativeDocumentMoniker": "Second_exam_practise\\TimeException.cs",
@@ -85,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Semester 2\\Second_exam_practise\\Second_exam_practise\\Program.cs",
               "RelativeDocumentMoniker": "Second_exam_practise\\Program.cs",
